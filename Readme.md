@@ -1,6 +1,6 @@
 # Student Management System (Console Based)
 
-This is a simple Java console-based project that allows you to manage student records.
+This is a simple Java console-based project that allows you to manage student records.🧑‍💻
 
 ## Features
 
